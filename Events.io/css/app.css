@@ -1,0 +1,19 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.m-0{
+    margin: 0px !important;
+}
+.py-5{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.bg-blue-dark{
+    background-color: #37424a;
+}
+.height-full{
+    height: 100vh;
+}
